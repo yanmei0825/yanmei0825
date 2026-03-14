@@ -5,9 +5,12 @@
 <h1 align="center">Hi 👋 I'm Ellen Martinelli</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+FastAPI+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture"/>
+<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=80" width="900"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+FastAPI+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture"/>
+</p>
 ---
 
 # 🚀 About Me
