@@ -1,32 +1,21 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:00c6ff&height=240&section=header&text=Ellen%20Martinelli&fontSize=45&fontColor=ffffff"/>
-</p>
-
-<h2 align="center">Full-Stack Developer</h2>
+<h1 align="center">Hi 👋 I'm Ellen</h1>
 
 <p align="center">
-React • FastAPI • Node.js • PHP • Java • Python
+<img src="https://github-profile-trophy.vercel.app/?username=ellen0825&theme=algolia&no-frame=true"/>
 </p>
 
 ---
 
-## 👩‍💻 About
+## ⚡ Tech Stack
 
-Full-stack developer building scalable web applications and modern APIs.
-
----
-
-## 🚀 Projects
-
-| Project | Description |
-|-------|-------------|
-| E-commerce Platform | React + FastAPI commerce system |
-| SaaS Dashboard | Analytics admin panel |
-| FastAPI REST API | High performance backend |
-| WordPress Plugin | CMS integration |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,php,java,python,postgres,docker"/>
+</p>
 
 ---
 
-## 📫 Contact
+## 📊 Stats
 
-ellenmartinelli0825@outlook.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ellen0825&show_icons=true&theme=tokyonight"/>
+</p>
