@@ -1,32 +1,20 @@
-# Ellen Martinelli
-
-Full-Stack Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Ellen+Martinelli;Full+Stack+Developer;React+FastAPI+Node.js"/>
+</p>
 
 ---
 
-## Tech
+## Tech Stack
 
-React  
-FastAPI  
-Node.js  
-PostgreSQL  
-Docker  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,php,java,python"/>
+</p>
 
 ---
 
 ## Projects
 
-### E-commerce Platform
-Full stack commerce platform.
-
-### SaaS Dashboard
-Admin analytics system.
-
-### REST API
-FastAPI backend services.
-
----
-
-## Contact
-
-ellenmartinelli0825@outlook.com
+E-commerce Platform  
+SaaS Dashboard  
+REST API  
+WordPress Integration
