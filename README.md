@@ -1,8 +1,21 @@
-# **Ellen Martinelli**  
-**Full-Stack Developer**  
+# Hi, I'm Ellen 👋
 
-**Email**: [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)  
-**Phone**: +79810981772  
-**Location**: St. Petersburg, Russia
+Full-Stack Developer
 
----
+## Tech Stack
+React • FastAPI • Node.js • PHP • Java • Python  
+WordPress • Bitrix • PostgreSQL • Docker
+
+## What I Build
+- Full-stack web applications
+- REST APIs
+- CMS integrations
+- Real-time applications
+
+## Featured Projects
+- SaaS Dashboard
+- E-commerce Platform
+- FastAPI REST API
+- WordPress Plugin
+
+📫 Contact: ellenmartinelli0825@outlook.com
