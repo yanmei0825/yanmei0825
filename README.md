@@ -49,9 +49,3 @@ High-performance backend API architecture.
 
 Custom CMS plugins and enterprise integrations.
 
----
-
-
-# 📬 Contact
-
-📧 [ellenmartinelli0825@outlook.com](mailto:ellenmartinelli0825@outlook.com)
