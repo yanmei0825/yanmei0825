@@ -1,15 +1,6 @@
 <p align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&q=80" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Ellen%20Martinelli&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=65&descSize=22"/>
 </p>
-
-<h1 align="center">Ellen Martinelli</h1>
-
-<h3 align="center">Full-Stack Developer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&width=750&lines=Expert+Developers+for+a+Connected+World;React+%7C+FastAPI+%7C+Node.js;Building+Modern+Web+Applications;Clean+Architecture+%7C+Scalable+Systems"/>
-</p>
-
 ---
 
 # 👩‍💻 About
