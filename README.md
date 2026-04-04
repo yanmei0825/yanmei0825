@@ -17,7 +17,6 @@ Passionate about **user-centered design** and **maintainable, high-performance c
 
 # 🧠 Tech Stack
 
-# 🧠 Tech Stack
 <p align="center">
   <strong>Frontend:</strong><br/>
   <img src="https://skillicons.dev/icons?i=react" width="90" style="margin:12px" title="React"/>
@@ -27,4 +26,24 @@ Passionate about **user-centered design** and **maintainable, high-performance c
   <img src="https://skillicons.dev/icons?i=html" width="90" style="margin:12px" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" width="90" style="margin:12px" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="90" style="margin:12px" title="Tailwind"/>
+</p>
+<p align="center">
+  <!-- Backend / API -->
+  <strong>Backend / API:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="70" style="margin:10px" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="70" style="margin:10px" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=php" width="70" style="margin:10px" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="70" style="margin:10px" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=python" width="70" style="margin:10px" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="70" style="margin:10px" title="Java"/>
+</p>
+
+<p align="center">
+  <!-- Tools & DevOps -->
+  <strong>Tools & DevOps:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="70" style="margin:10px" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="70" style="margin:10px" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70" style="margin:10px" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="70" style="margin:10px" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="70" style="margin:10px" title="Linux"/>
 </p>
